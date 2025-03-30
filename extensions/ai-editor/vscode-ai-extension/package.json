@@ -1,0 +1,12 @@
+{
+  "name": "vscode-ai-extension",
+  "version": "1.0.0",
+  "main": "./extension.js",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.98.0",
+    "typescript": "^4.9.5"
+  }
+}
